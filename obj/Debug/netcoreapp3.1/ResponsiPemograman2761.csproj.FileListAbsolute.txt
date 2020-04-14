@@ -1,0 +1,13 @@
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.csprojAssemblyReference.cache
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.csproj.CoreCompileInputs.cache
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.AssemblyInfoInputs.cache
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.AssemblyInfo.cs
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\bin\Debug\netcoreapp3.1\ResponsiPemograman2761.exe
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\bin\Debug\netcoreapp3.1\ResponsiPemograman2761.deps.json
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\bin\Debug\netcoreapp3.1\ResponsiPemograman2761.runtimeconfig.json
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\bin\Debug\netcoreapp3.1\ResponsiPemograman2761.runtimeconfig.dev.json
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\bin\Debug\netcoreapp3.1\ResponsiPemograman2761.dll
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\bin\Debug\netcoreapp3.1\ResponsiPemograman2761.pdb
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.dll
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.pdb
+C:\Users\hernanda giri\source\repos\responsi\ResponsiPemograman2761\obj\Debug\netcoreapp3.1\ResponsiPemograman2761.genruntimeconfig.cache
